@@ -1,4 +1,4 @@
-![Blue Illustrated General Grocery Supplies Online Service Grocery Facebook Cover (5)](https://jeevenlamichhane.com.np/storage/images/portfolio/images/gogo-20210319141318-eddQvq.png)
+![Blue Illustrated General Grocery Supplies Online Service Grocery Facebook Cover (5)](https://jeevenlamichhane.com.np/storage/images/portfolio/images/mentee-20210319141223-M5P0s1.png)
 
 <p align="left">
  👋 I'm <b>Jeeven Lamichhane</b>,a <b>Full Stack Developer</b> 💻 from <b>Nepal</b>.<br/>
