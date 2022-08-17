@@ -1,4 +1,6 @@
-![Image Description](https://hdmlbxshrurxrggmrogp.supabase.co/storage/v1/object/public/gpic/v1/image_2021_dSPdV5lnag)
+<a href="https://app.daily.dev/macalistair" style="display:block;margin-left: auto;margin-right: auto;width: 50%;">
+<img src="https://api.daily.dev/devcards/78bc5fce96af4279949251abbd5e5c5e.png?r=k8n" width="400" alt="Jeeven Lamichhane's Dev Card" />
+</a>
 
 <p align="left">
  👋 I'm <b>Jeeven Lamichhane</b>,a <b>Full Stack Developer</b> 💻 from <b>Nepal</b>.<br/>
@@ -9,6 +11,9 @@
  🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br/>
  😍 I enjoy riding 🚴‍♂️🐱‍💻 and listening songs🎵🎶
 <br/>
+
+![Image Description](https://hdmlbxshrurxrggmrogp.supabase.co/storage/v1/object/public/gpic/v1/image_2021_dSPdV5lnag)
+
   <h3 align="center">Reach me out</h3>
 
 <p align="center">
@@ -34,5 +39,3 @@
 
 
 </p>
-
----
