@@ -11,7 +11,7 @@
  🔬 Always ready to collaborate for Dev Experiments<br/>
  🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br/>
  😍 I enjoy riding 🚴‍♂️🐱‍💻 and listening songs🎵🎶
-<br/>
+<br/><br/>
 
 <a href="https://jeevenlamichhane.com.np" style="display:block;margin-left: auto;margin-right: auto;width: 50%;">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MacAlistair1" width="400" alt="Jeeven Lamichhane's Dev Card" />
