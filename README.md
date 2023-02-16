@@ -1,10 +1,11 @@
+
 <a href="https://app.daily.dev/macalistair" style="display:block;margin-left: auto;margin-right: auto;width: 50%;">
 <img src="https://api.daily.dev/devcards/78bc5fce96af4279949251abbd5e5c5e.png?r=k8n" width="400" alt="Jeeven Lamichhane's Dev Card" />
 </a>
 
 <p align="left">
  👋 I'm <b>Jeeven Lamichhane</b>,a <b>Full Stack Developer</b> 💻 from <b>Nepal</b>.<br/>
- 🏘 Four and half years of experience in Web Development also have experience in Android app development since 2016.<br/>
+ 🏘 5 years of experience in Web Development also have experience in Android app development since 2016.<br/>
  🔭 I love to explore everything 😁 <br/>
  ⏳ Experimenting with JS and learning AR<br/>
  🔬 Always ready to collaborate for Dev Experiments<br/>
@@ -12,9 +13,14 @@
  😍 I enjoy riding 🚴‍♂️🐱‍💻 and listening songs🎵🎶
 <br/>
 
-![Image Description](https://hdmlbxshrurxrggmrogp.supabase.co/storage/v1/object/public/gpic/v1/image_2021_dSPdV5lnag)
+<a href="https://jeevenlamichhane.com.np" style="display:block;margin-left: auto;margin-right: auto;width: 50%;">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MacAlistair1" width="400" alt="Jeeven Lamichhane's Dev Card" />
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MacAlistair1) -->
+</a>
 
-  <h3 align="center">Reach me out</h3>
+<!-- ![Image Description](https://hdmlbxshrurxrggmrogp.supabase.co/storage/v1/object/public/gpic/v1/image_2021_dSPdV5lnag) -->
+
+<h3 align="center">Reach me out</h3>
 
 <p align="center">
                    
