@@ -3,8 +3,6 @@
   <b>Full Stack Developer</b> from <b>Nepal</b> with 6 years of experience in Web Development and Android app development.
 </p>
 
-![Profile Image](https://jeevenlamichhane.com.np/storage/images/company/logos/photo-20200716181443-qKieV2.png)
-
 ---
 
 ## 🚀 About Me
