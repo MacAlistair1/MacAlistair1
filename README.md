@@ -3,7 +3,7 @@
 
 <p align="left">
  👋 I'm <b>Jeeven Lamichhane</b>,a <b>Full Stack Developer</b> 💻 from <b>Nepal</b>.<br/>
- 🏘 5 years of experience in Web Development also have experience in Android app development since 2016.<br/>
+ 🏘 6 years of experience in Web Development also have interest and experience in Android app development since 2016.<br/>
  🔭 I love to explore everything 😁 <br/>
  ⏳ Experimenting with JS and learning AR<br/>
  🔬 Always ready to collaborate for Dev Experiments<br/>
