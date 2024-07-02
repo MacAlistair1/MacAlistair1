@@ -5,6 +5,22 @@
 
 ---
 
+## 🏆 Trophy
+
+<p align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=macalistair1&title=Followers,Commits,Repositories,MultipleLang,Experience&theme=onedark">
+</p>
+
+---
+
+## 🤝 Contribution
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=macalistair1&theme=highcontrast&hide_border=true&border_radius=5&card_width=550">
+</p>
+
+---
+
 ## 🚀 About Me
 - 🎓 Experienced in Web and Android development since 2016.
 - 🧪 Experimenting with JavaScript and exploring Augmented Reality.
@@ -12,6 +28,48 @@
 - 🚴‍♂️ Enthusiastic cyclist, cat lover 🐱, and music aficionado 🎵.
 
 ---
+
+## 👨🏻‍💻 Languages and Tools 
+<div>
+
+### 🌎 Lang / Service:
+
+| PHP  | Vue.js  | Laravel  | JS       | Python   |     C   |   AWS    |  Nodejs  |
+|------|---------|----------|----------|----------|---------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js"  alt="Vue.js" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="55" height="55"/> | 
+
+
+### ⚙️ OS:
+
+| Linux    | Ubuntu   | Kali     |  Mac  |  Windows | Arch    |
+|----------|----------|----------|-------|----------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/new-icon-kali-linux/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/new-icon-kali-linux/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/new-icon-kali-linux/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/> |
+
+
+### 🐞 Tools for CTF's
+ 
+| Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
+|------------|-----------|-----------|--------|------|
+
+
+</div>
+
+---
+
+
+<p align="center">
+  <!-- <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark"> -->
+  <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macalistair1&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+<!-- <div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=macalistair1&style=for-the-badge&color=orange" alt=""/>
+</div>
+ -->
+
+---
+
+
 
 ## 🛠️ Skills
 - **Languages:** JavaScript, Python, Java, HTML, CSS
@@ -61,13 +119,12 @@
 
 ---
 
+
 ## 🚀🚀🚀
 <div>
   <a href="https://app.daily.dev/macalistair">
       <img src="https://api.daily.dev/devcards/v2/qLNa3xQ2KycP66EgmGCwk.png?r=t68" width="356" alt="Jeeven Lamichhane's Dev Card"/>
   </a>
-   <a href="https://jeevenlamichhane.com.np">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MacAlistair1" width="356" alt="Used Top Langs" />
-  </a>
 </div>
 
+---
