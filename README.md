@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm <b>Jeeven Lamichhane</b></h1>
 <p align="center">
-  <b>Full Stack Developer</b> from <b>Nepal</b> with 6 years of experience in Web Development and Android app development.
+  <b>Full Stack Developer</b> from <b>Nepal</b> with 8+ years of experience in Web Development and Android app development.
 </p>
 
 ---
